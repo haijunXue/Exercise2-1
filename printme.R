@@ -16,3 +16,5 @@ printer(name,eyecolor,meal)
 #Rstudio  can't create branches directly,so you need to either
 #create them in Github and pull the changes in your repository
 # create them from the shell
+#----------4.3.4
+#git checkout -b testing
