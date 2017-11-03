@@ -18,4 +18,7 @@ printer(name,eyecolor,meal)
 # create them from the shell
 #----------4.3.4
 #git checkout -b testing
-#git push -u origin testing
+#git push -u origin testing#git push -u origin testing
+
+#--------4.7
+#check the differencies between master and branch in the command line via git diff.
